@@ -1,0 +1,25 @@
+h1{
+    
+    color:black;
+    text-align: center;
+    background-color:lightseagreen;
+    opacity: 0.5;
+    border-radius: 23px;
+    padding: 0.5%;
+    padding-top:5%;
+    padding-bottom: 5%;
+    font-size:220%;
+
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightcyan ;
+}
+p{
+    color:dimgray;
+    text-align: center;
+    font-size:120%;
+}
+a{
+    color:black;
+}
