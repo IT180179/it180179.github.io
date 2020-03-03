@@ -1,8 +1,9 @@
  function myFunction() {
-    document.getElementById("all").style.backgroundColor = "lightseagreen";
-    document.getElementById("all").style.color = "black";
-    document.getElementById("all").style.fontFamily = "Aria";
-    document.getElementById("all").style.padding ="5%";
-    document.getElementById("all").style.fontSize ="160%";
-    document.getElementById("all").style.borderRadius ="23px";
+
+    document.getElementById("body").style.backgroundColor = "lightseagreen";
+    document.getElementById("body").style.fontFamily = "Aria";
+    document.getElementById("body").style.padding ="5%";
+    document.getElementById("body").style.fontSize ="160%";
+    document.getElementById("body").style.borderRadius ="23px";
+    
  }
